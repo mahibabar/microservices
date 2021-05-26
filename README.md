@@ -1,4 +1,6 @@
 # microservices
+This contains how to develop microservices in Java using spring boot and automatic service discovery(with load balancing) using spring cloud(which internally uses Eureka technology provided by Netflix)
+
 This app contains three services
 1. movie-info-service(deployed on 8081 port)
 2. ratings-data-service(deployed on 8082 port)
